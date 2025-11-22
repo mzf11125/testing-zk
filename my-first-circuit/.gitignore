@@ -9,7 +9,9 @@ dist/
 *.r1cs
 *.wasm
 *.sym
-*.wtns
+*.wtnssnarkjs powersoftau prepare phase2 pot12_0001.ptau pot12_final.ptau -v
+
+
 
 # Generated witness files
 witness.json
